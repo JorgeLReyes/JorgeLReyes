@@ -4,7 +4,9 @@
 <h1 align="center">👋 Hi, I’m Jorge Reyes 💻</h1>
 <h3 align="center">I like to learn new technologies and I am currently venturing into the world of web programming</h3>
 <div align="center">My instagram
-  <code><a href="https://www.instagram.com/Jorgelfreyes/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg">@Jorgelfreyes</a></code>
+  <a href="https://www.instagram.com/jorgelfreyes">
+    <img align="left" alt="Hargun | Instagram" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" />@Jorgelfreyes
+  </a>
  </div> 
 
 ---
