@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">👋 Hi, I’m Jorge Reyes 💻</h1>
 <h3 align="center">I like to learn new technologies and I am currently venturing into the world of web programming</h3>
-<div align="center">My instagram
+<div align="center">
   <a href="https://www.instagram.com/jorgelfreyes">
     <img alt="Hargun | Instagram" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" />@Jorgelfreyes
   </a>
