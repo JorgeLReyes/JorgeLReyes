@@ -11,7 +11,7 @@
 
 <div align="left">
   <h3>Languages</h3>
-  <img scr="https://github.com/devicon/blob/html5/html-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>8nbsp;
+  <img src="https://github.com/devicon/blob/html5/html-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>8nbsp;
 </div>
 
 
