@@ -1,5 +1,5 @@
 <div aling="center">
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="200"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
   - 👋 Hi, I’m @JorgeLReyes
 
