@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
-<h1 text-align="center">
+<h1 align="center">
 👋 Hi, I’m @JorgeLReyes
 </h1>
   
