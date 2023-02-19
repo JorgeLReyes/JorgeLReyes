@@ -15,6 +15,8 @@
   <img src="https://github.com/tabler/tabler-icons/blob/a96c47ce4b9e24e84cd2f78c0438af39782e1fc1/icons/brand-html5.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   </div>
 </div>
+
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <!---
 JorgeLReyes/JorgeLReyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
