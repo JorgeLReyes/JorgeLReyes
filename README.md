@@ -9,6 +9,12 @@
 
 ---
 
+<div align="left">
+  <h3>Languages</h3>
+  <img scr="https://github.com/devicon/blob/html5/html-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>8nbsp;
+</div>
+
+
 <!---
 JorgeLReyes/JorgeLReyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
