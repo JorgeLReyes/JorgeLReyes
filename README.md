@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
 <h1 align="center">
-👋 Hi, I’m @JorgeLReyes
+👋 Hi, I’m Jorge Reyes
 </h1>
   
 <!---
