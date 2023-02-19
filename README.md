@@ -11,7 +11,7 @@
 
 <div align="left">
   <h3>Languages</h3>
-  <div align="left" color="#fff">
+  <div align="left" background="#fff">
   <img src="https://github.com/tabler/tabler-icons/blob/a96c47ce4b9e24e84cd2f78c0438af39782e1fc1/icons/brand-html5.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   </div>
 </div>
