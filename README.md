@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">👋 Hi, I’m Jorge Reyes</h1>
 <h3 align="center">I like to learn new technologies and I am currently venturing into the world of web programming</h3>
-<a href="https://www.instagram.com/Jorgelfreyes" color="#fff" align="center">My instagram @Jorgelfreyes</a>
+<a href="https://www.instagram.com/Jorgelfreyes" align="center">My instagram @Jorgelfreyes</a>
   
 <!---
 JorgeLReyes/JorgeLReyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
