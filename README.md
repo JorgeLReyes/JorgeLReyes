@@ -3,6 +3,7 @@
 </div>
 <h1 align="center">👋 Hi, I’m Jorge Reyes 💻</h1>
 <h3 align="center">I like to learn new technologies and I am currently venturing into the world of web programming</h3>
+
 ---
 
 <div align="left">
